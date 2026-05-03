@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905598483888",
+    "project_id": "ateeves-checkin",
+    "storage_bucket": "ateeves-checkin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905598483888:android:15622b8b030b19af47aa75",
+        "android_client_info": {
+          "package_name": "com.example.ateeves_checkin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYOmj_7GRbM4edDJ1hMTY3LeJ1EZAtHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
